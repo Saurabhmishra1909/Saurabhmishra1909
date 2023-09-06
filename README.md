@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saurabh Mishra</h1>
+<h1 align="center">Hello 👋, I'm Saurabh Mishra</h1>
 <h3 align="center">A passionate frontend developer and Competitive Coder.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhmishra1909&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhmishra1909" /> </p>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Sentiment Zen**
 
-- 🌱 I’m currently learning **React, Flutter, WebDe**
+- 🌱 I’m currently learning **React, Flutter, WebDev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saurabhmishra1909/](https://github.com/saurabhmishra1909/)
 
