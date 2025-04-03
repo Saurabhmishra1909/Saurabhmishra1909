@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm Saurabh Mishra</h1>
-<h3 align="center">A passionate frontend developer and Competitive Coder.</h3>
+<h3 align="center">Full Stack Developer | Spring Boot Specialist | Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhmishra1909&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhmishra1909" /> </p>
 
