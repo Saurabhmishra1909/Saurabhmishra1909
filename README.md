@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/saurabhmishra1909/](https://github.com/saurabhmishra1909/)
 
-- 💬 Ask me about **C++, DSA, Web Development**
+- 💬 Ask me about **Java, SpringBoot, Hibername(ORM), JPA, databases, C++, DSA, Web Development**
 
 - 📫 How to reach me **saurabhmishra3241@gmail.com**
 
