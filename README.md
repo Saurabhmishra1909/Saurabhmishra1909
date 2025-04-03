@@ -1,55 +1,75 @@
+
 <h1 align="center">Hello 👋, I'm Saurabh Mishra</h1>
-<h3 align="center">Full Stack Developer | Spring Boot Specialist | Competitive Programmer</h3>
+<h3 align="center">A passionate frontend developer and Competitive Coder.</h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saurabhmishra1909&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saurabhmishra1909&margin-w=15&rank=SSS,SS,S,AAA,AA,A,B,C" alt="github trophies" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhmishra1909&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhmishra1909" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhmishra1909" alt="saurabhmishra1909" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/_being_brahmin_" target="blank"><img src="https://img.shields.io/twitter/follow/_being_brahmin_?logo=twitter&style=for-the-badge" alt="_being_brahmin_" /></a> </p>
+
+- 🔭 I’m currently working on **Sentiment Zen**
+
+- 🌱 I’m currently learning **React, Flutter, WebDev**
+
+- 👨‍💻 All of my projects are available at [https://github.com/saurabhmishra1909/](https://github.com/saurabhmishra1909/)
+
+- 💬 Ask me about **Java, SpringBoot, Hibername(ORM), JPA, databases, C++, DSA, Web Development**
+
+- 📫 How to reach me **saurabhmishra3241@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/_being_brahmin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_being_brahmin_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/saurabhmishra1909/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saurabhmishra1909/" height="30" width="40" /></a>
+<a href="https://instagram.com/_.being.brahmin._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.being.brahmin._" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/mishra1909" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/mishra1909" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/saurabh1926/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/saurabh1926/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/saurabhmishra3241/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/saurabhmishra3241/practice" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
-</div>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40"/> 
+  </a>
+  <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/> 
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+</p>
 
-## 🔥 Highlights
-- � Ranked **Top 10%** on CodeChef (2★, Peak Rank 706)
-- 🧠 Solved **720+ DSA problems** across platforms
-- 🚀 Built production-ready **Spring Boot** applications
-- ☁️ Certified in **AWS Cloud** and **Microsoft Business Analysis**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhmishra1909&show_icons=true&locale=en&layout=compact" alt="saurabhmishra1909" /></p>
 
-## 🛠️ Technical Expertise
-### Backend Development
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot"> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhmishra1909&show_icons=true&locale=en" alt="saurabhmishra1909" /></p>
 
-### Web Development
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-
-## 🚀 Featured Projects
-
-### [ReadyToGo - Cab Booking System](https://github.com/saurabhmishra1909/ReadyToGo)
-> Spring Boot | JPA/Hibernate | MySQL | REST APIs
-- Reduced API response time by 30% through optimized HQL queries
-- Implemented JavaMailSender for real-time booking notifications
-- 95% API reliability with 50+ Postman test cases
-
-### [SentimentZen](https://github.com/saurabhmishra1909/SentimentZen)
-> React | Gemini API | NLP
-- AI-powered emotional support chatbot ("Dr. Zen")
-- Emotion detection system analyzing user text input
-- Integrated wellness recommendations (books, music, yoga)
-
-## 🏆 Competitive Coding
-| Platform | Solved | Rating | Achievement |
-|----------|--------|--------|-------------|
-| **LeetCode** | 150+ | 90% Acceptance | [saurabh1926](https://leetcode.com/saurabh1926/) |
-| **CodeChef** | 200+ | 2★ (1621) | Peak Rank 706 |
-| **GFG** | 500+ | College Rank 12 | [profile](https://auth.geeksforgeeks.org/user/saurabhmishra3241) |
-
-## 📫 Let's Connect
-<a href="https://www.linkedin.com/in/saurabhmishra1909/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:saurabhmishra3241@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://twitter.com/_being_brahmin_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-
-## 📊 GitHub Stats
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=saurabhmishra1909&show_icons=true&theme=radical" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhmishra1909&theme=radical" />
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhmishra1909&layout=compact&theme=radical" />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhmishra1909&" alt="saurabhmishra1909" /></p>
